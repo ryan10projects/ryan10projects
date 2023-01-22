@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Ryan Rodricks
 
+<link rel="stylesheet" type="text/css" href="path/to/your/stylesheet.css">
+
 <img src="./animated.gif" alt="My Project GIF" width="700" height="200">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan10projects&show_icons=true&theme=dark)
