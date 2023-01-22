@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="https://github.com/ryan10projects/ryan10projects/blob/main/styles.css">
 <h1 align="left"><img src="https://github.com/ryan10projects/ryan10projects/blob/main/shiba.gif" width="50"/>
-<i>Welcome!! I'm Ryan Rodricks</> <img src="" width="100"/></h1>
+<i>Welcome!! I'm Ryan Rodricks</> <img src="https://github.com/ryan10projects/ryan10projects/blob/main/d6c6xbk-c455616b-1fb1-4986-a8d1-38117253ab37.gif" width="70"/></h1>
 
 
 <img src="./animated.gif" alt="My Project GIF" width="700" height="200">
