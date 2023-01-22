@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan10projects&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan10projects&exclude_repo=https://github.com/ryan10projects/Ecommerce_PWA_Integration,https://github.com/ryan10projects/ecomm,https://github.com/ryan10projects/ecommerce-template&layout=compact&hide=javascript,html,php,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan10projects&exclude_repo=https://github.com/ryan10projects/Ecommerce_PWA_Integration&layout=compact&hide=javascript,html,php,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ryan10projects/ryan10projects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
