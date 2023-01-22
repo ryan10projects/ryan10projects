@@ -2,3 +2,7 @@
   font-family: 'CustomFont';
   src: url('https://github.com/ryan10projects/ryan10projects/blob/main/Monocraft.ttf') format('truetype');
 }
+
+body {
+  font-family: 'CustomFont', Arial, sans-serif;
+}
