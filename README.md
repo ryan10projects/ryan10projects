@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ryan Rodricks
 
-<link rel="stylesheet" type="text/css" href="path/to/your/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/ryan10projects/ryan10projects/blob/main/font.css">
 
 <img src="./animated.gif" alt="My Project GIF" width="700" height="200">
 
