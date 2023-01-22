@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="https://github.com/ryan10projects/ryan10projects/blob/main/styles.css">
 
-<img src="https://github.com/ryan10projects/ryan10projects/blob/main/shiba.gif" width="50"/> 
+# ***Welcome!! I'm Ryan Rodricks*** <img src="https://github.com/ryan10projects/ryan10projects/blob/main/shiba.gif" width="50"/>
 
 
 <img src="./animated.gif" alt="My Project GIF" width="700" height="200">
