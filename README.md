@@ -14,7 +14,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center"></h1>
 <p align="center">
-    <img width="75" height="25" href="mailto:rodricksryan10@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Material Bread logo">
-   <img width="75" height="25" href="https://in.linkedin.com/in/ryan-rodricks-54b0741a0" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Material Bread logo">
+    <a href="mailto:rodricksryan10@gmail.com">
+    <img width="75" height="25" href="mailto:rodricksryan10@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Material Bread logo"> </a>
+       <a href="https://in.linkedin.com/in/ryan-rodricks-54b0741a0">
+   <img width="75" height="25" href="https://in.linkedin.com/in/ryan-rodricks-54b0741a0" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Material Bread logo"></a>
 </p>
 
