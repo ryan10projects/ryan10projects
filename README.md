@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="https://github.com/ryan10projects/ryan10projects/blob/main/style.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/ryan10projects/ryan10projects/blob/main/styles.css">
 
 <h1>👋 Hi, I’m Ryan Rodricks</h1>
 
