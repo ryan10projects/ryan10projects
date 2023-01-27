@@ -5,9 +5,9 @@
 
 <img src="./animated.gif" alt="My Project GIF" width="700" height="200">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan10projects&show_icons=true&theme=dark&hide=issues)
+![Anurag's GitHub stats](https://github-readme-stats-alpha-kohl.vercel.app/api?username=ryan10projects&show_icons=true&theme=dark&hide=issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan10projects&show_icons=true&theme=dark&exclude_repo=https://github.com/ryan10projects/Ecommerce_PWA_Integration&layout=compact&hide=javascript,html,php,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-alpha-kohl.vercel.app/api/top-langs/?username=ryan10projects&show_icons=true&theme=dark&exclude_repo=https://github.com/ryan10projects/Ecommerce_PWA_Integration&layout=compact&hide=javascript,html,php,css)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryan10projects&theme=dark)](https://git.io/streak-stats)
 
